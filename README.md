@@ -8,8 +8,8 @@ Zero build. Zero dependencies. One HTML file. Infinite polish.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-34D399.svg)](LICENSE)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-A78BFA.svg)](https://docs.anthropic.com)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-CDN-06B6D4.svg)](https://tailwindcss.com)
-[![Anime.js](https://img.shields.io/badge/Anime.js-3.2-FF6F61.svg)](https://animejs.com)
+
+[Live Demo](https://auwalmusa.github.io/frontend-landings-claude-skill/demo/) · [Install](#-installation)
 
 [Live Demo](https://auwalmusa.github.io/frontend-landings-claude-skill/demo/) · [Install](#-installation) · [Presets](#-style-presets) · [Usage](#-usage) · [Contributing](#-contributing)
 
